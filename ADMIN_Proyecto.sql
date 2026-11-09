@@ -8,3 +8,4 @@ GRANT CREATE PROCEDURE TO ADMIN_PROYECTO;
 GRANT CREATE TRIGGER TO ADMIN_PROYECTO;
 --Prueba 1 sdasdlkdkad
 --sdádpad eqeqeqwe
+-- klk
