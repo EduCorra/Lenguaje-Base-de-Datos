@@ -9,3 +9,5 @@ GRANT CREATE TRIGGER TO ADMIN_PROYECTO;
 --Prueba 1 sdasdlkdkad
 --sdádpad eqeqeqwe
 -- klk
+
+--Prueba
